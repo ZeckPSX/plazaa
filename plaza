@@ -1,7 +1,7 @@
 script_key = "hrtDTLAgxOVQKtucCaSYxPvVHkUJrCLd"
 getgenv().Settings = {
     Sniper = {
-        Active = false,
+        Active = true,
         Items = {
             --// Example Settings, everything is editable.
             SearchTerminal = {
@@ -37,7 +37,7 @@ getgenv().Settings = {
         },
     },
     Seller = {
-        Active = true,
+        Active = false,
         Items = {
             --// Example Settings, everything is editable.
             ["All Rarity: Superior"] = {Class = "Pet", Price = "0%"}, --// Normal RAP.
