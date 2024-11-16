@@ -28,7 +28,7 @@ getgenv().Settings = {
         },
         StopParams = {
             ["Limits Reached"] = false,
-            ["Diamonds Hit: 250k"] = false,
+            ["Diamonds Hit: 20k"] = false,
             ["60 Minutes"] = false,
             ["Switch To Selling"] = false,
         },
@@ -61,7 +61,7 @@ getgenv().Settings = {
         },
         Other = {
             ["Auto Accept Mail"] = true,
-            ["Diamonds Hit: 1b Sendout"] = "Jxnttt",
+            ["Diamonds Hit: 1b Sendout"] = "Jason061gt",
             ["Always Try Adding Listings"] = true,
             ["Never Join Friendslist"] = false,
         },
