@@ -10,8 +10,8 @@ getgenv().Settings = {
             },
             ["Crystal Key Upper Half"] = {Class = "Misc", Price = "0%"},
             ["Crystal Key"] = {Class = "Misc", Price = "0%"},
-            ["God Potion"] = {Class = "Consumable", Price = "20%"},
-            ["Jelly God Potion"] = {Class = "Consumable", Price = "35%"},
+            ["God Potion 1"] = {Class = "Consumable", Price = "20%"},
+            ["Jelly God Potion 1"] = {Class = "Consumable", Price = "35%"},
         },
         Serverhop = {
             ["Switch Servers"] = true,
