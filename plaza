@@ -9,7 +9,7 @@ getgenv().Settings = {
                 ["Crystal Key Lower Half"] = {Class = "Misc", Price = "-5%"},
             },
             ["Crystal Key Upper Half"] = {Class = "Misc", Price = "10%"},
-            ["Crystal Key"] = {Class = "Misc", Price = "15%"},
+            ["Crystal Key"] = {Class = "Misc", Price = "30%"},
             ["God Potion 1"] = {Class = "Consumable", Price = "20%"},
             ["Jelly God Potion 1"] = {Class = "Consumable", Price = "35%"},
         },
