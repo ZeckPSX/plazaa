@@ -6,12 +6,13 @@ getgenv().Settings = {
             --// Example Settings, everything is editable.
             SearchTerminal = {
                 [[ Terminal doesn't support custom keywords like "All Huges" or "AllTiers". ]],
-                ["Crystal Key Lower Half"] = {Class = "Misc", Price = "-15%"},
+                ["Crystal Key Lower Half"] = {Class = "Misc", Price = "20%"},
             },
-            ["Crystal Key Upper Half"] = {Class = "Misc", Price = "10%"},
-            ["Crystal Key"] = {Class = "Misc", Price = "50%"},
-            ["God Potion 1"] = {Class = "Consumable", Price = "20%"},
-            ["Jelly God Potion 1"] = {Class = "Consumable", Price = "35%"},
+            ["Instant Luck Potion 4"] = {Class = "Consumable", Price = "5%"},
+            ["Crystal Key Upper Half"] = {Class = "Misc", Price = "+20%"},
+            ["Crystal Key"] = {Class = "Misc", Price = "20%"},
+            ["God Potion 1"] = {Class = "Consumable", Price = "30%"},
+            ["Jelly God Potion 1"] = {Class = "Consumable", Price = "90%"},
         },
         Serverhop = {
             ["Switch Servers"] = true,
