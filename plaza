@@ -10,7 +10,7 @@ getgenv().Settings = {
             },
             ["Instant Luck Potion 4"] = {Class = "Consumable", Price = "25%"},
             ["Crystal Key Upper Half"] = {Class = "Misc", Price = "+15%"},
-            ["Crystal Key"] = {Class = "Misc", Price = "20%"},
+            ["Crystal Key"] = {Class = "Misc", Price = "35%"},
             ["God Potion 1"] = {Class = "Consumable", Price = "30%"},
             ["Jelly God Potion 1"] = {Class = "Consumable", Price = "30%"},
         },
