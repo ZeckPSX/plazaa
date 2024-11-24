@@ -8,11 +8,14 @@ getgenv().Settings = {
                 [[ Terminal doesn't support custom keywords like "All Huges" or "AllTiers". ]],
                 ["Crystal Key Lower Half"] = {Class = "Misc", Price = "45%"},
             },
+            ["All Rarity: Exclusive"] = {Class = "Pet", Price = "90%"}, --// 20% above or less of RAP.
             ["Instant Luck Potion 4"] = {Class = "Consumable", Price = "25%"},
             ["Crystal Key Upper Half"] = {Class = "Misc", Price = "+15%"},
             ["Crystal Key"] = {Class = "Misc", Price = "35%"},
             ["God Potion 1"] = {Class = "Consumable", Price = "30%"},
             ["Jelly God Potion 1"] = {Class = "Consumable", Price = "20%"},
+            ["Fishing Bait 5"] = {Class = "Consumable", Price = "30%"},
+            ["Fishing Bait 4"] = {Class = "Consumable", Price = "35%"},
         },
         Serverhop = {
             ["Switch Servers"] = true,
