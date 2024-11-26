@@ -6,12 +6,12 @@ getgenv().Settings = {
             --// Example Settings, everything is editable.
             SearchTerminal = {
                 [[ Terminal doesn't support custom keywords like "All Huges" or "AllTiers". ]],
-                ["Crystal Key Lower Half"] = {Class = "Misc", Price = "45%"},
+                ["Crystal Key Lower Half"] = {Class = "Misc", Price = "35%"},
             },
             ["All Rarity: Exclusive"] = {Class = "Pet", Price = "90%"}, --// 20% above or less of RAP.
             ["Instant Luck Potion 4"] = {Class = "Consumable", Price = "25%"},
             ["Crystal Key Upper Half"] = {Class = "Misc", Price = "+15%"},
-            ["Crystal Key"] = {Class = "Misc", Price = "35%"},
+            ["Crystal Key"] = {Class = "Misc", Price = "30%"},
             ["God Potion 1"] = {Class = "Consumable", Price = "30%"},
             ["Jelly God Potion 1"] = {Class = "Consumable", Price = "50%"},
             ["Fishing Bait 5"] = {Class = "Consumable", Price = "30%"},
